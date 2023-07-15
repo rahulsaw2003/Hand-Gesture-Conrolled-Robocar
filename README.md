@@ -29,6 +29,6 @@ wheels using motors.
 
 ## Team Members
 
-**Rahul Kumar Saw**
-**Vansh Gupta**
-**Saurabh Kr. Singh**
+1. **Rahul Kumar Saw**
+2. **Vansh Gupta**
+3. **Saurabh Kr. Singh**
