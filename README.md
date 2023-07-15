@@ -27,6 +27,8 @@ wheels using motors.
 
 ---
 
-## Author
+## Team Members
 
-**Rahul Kumar Saw -- IIT ROPAR**
+**Rahul Kumar Saw**
+**Vansh Gupta**
+**Saurabh Kr. Singh**
